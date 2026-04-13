@@ -1,0 +1,23 @@
+# Environments
+venv/
+env/
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Vector DBs and SQLite DBs
+chroma_db/
+sample.db
+*.db
+*.sqlite
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/

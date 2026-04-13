@@ -1,0 +1,11 @@
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai
+langgraph
+chromadb
+ragas
+duckduckgo-search
+sqlalchemy
+python-dotenv
+langsmith
+streamlit
