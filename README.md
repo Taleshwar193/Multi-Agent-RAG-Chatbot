@@ -44,4 +44,4 @@ To run the RAGAS evaluation suite (requires the `.env` keys):
 python evaluate.py
 ```
 
-<!-- Added minor documentation update for GitHub contribution tracking -->
+<!-- Maintained documentation update for GitHub contribution tracking -->
